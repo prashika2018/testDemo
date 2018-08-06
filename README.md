@@ -10,6 +10,6 @@ test three
 
 test four
 
-test five
+test five deleted
 
-test six
+test six updated
