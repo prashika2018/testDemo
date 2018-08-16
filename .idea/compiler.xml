@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PSKSK" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jb-SIT" target="1.8" />
+      <module name="jb-sit-core" target="1.8" />
+      <module name="jb-sit-cucumber-ext" target="1.8" />
+      <module name="jb-sit-ingest" target="1.8" />
+      <module name="jb-sit-onboarding-api" target="1.8" />
+      <module name="jb-sit-persistence" target="1.8" />
+      <module name="jb-sit-tests" target="1.8" />
+      <module name="jb-sit-ui" target="1.8" />
+      <module name="jb-sit-utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
