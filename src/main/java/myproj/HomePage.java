@@ -16,6 +16,7 @@ public class HomePage {
         this.username = username;
         this.password = password;
         this.role = role;
+        System.out.println("i am from HomePage");
     }
 
 
